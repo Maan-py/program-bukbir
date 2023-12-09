@@ -7,6 +7,7 @@ Langkah Penggunaan
 4. lalu jalankan program
 
 File NoName akan membut foto tanpa nama di pojok kiri
+
 File tanpa tulisan NoName akan menghasilkan foto yang sudah di edit dengan nama foto di pojok kiri atas foto
 
 
