@@ -35,7 +35,7 @@ def create_thumbnail(input_path, output_path, name):
     # Set the position to the top-left corner
     text_position = (10, 10)
 
-    # Set the text color to black
+    # Set the text color to blue
     text_color = (0, 137, 255)
 
     # Add the name to the image
