@@ -6,6 +6,7 @@ Langkah Penggunaan
 3. Hapus file pada folder pdf
 4. lalu jalankan program
 
-Foto akan teredit dengan nama dari foto tersebut berwarna biru dan terletak pojok kiri atas foto
+File NoName akan membut foto tanpa nama di pojok kiri
+File tanpa tulisan NoName akan menghasilkan foto yang sudah di edit dengan nama foto di pojok kiri atas foto
 
 
